@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Customer Information" max_length="40" name="x_597157_cool_customer_information" sizeclass="0" type="collection">
+        <element label="Contact Number" mandatory="true" max_length="40" name="contact_number" type="phone_number_e164"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type of Account" mandatory="true" max_length="40" name="u_choice_8" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Savings" sequence="0" value="savings"/>
+                <element inactive_on_update="false" label="Current" sequence="1" value="current"/>
+            </choice>
+        </element>
+        <element label="Amount" mandatory="true" max_length="40" name="u_float_7" type="float"/>
+        <element label="Aadhar Number" mandatory="true" max_length="40" name="u_integer_9" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Acc No" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name of Acc Holder" mandatory="true" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Emial ID" mandatory="true" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Pan card Number" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Door Number" max_length="40" name="u_string_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_string_6" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

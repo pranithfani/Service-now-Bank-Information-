@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_1" table="x_597157_cool_daily_transaction_report" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <name>x_597157_cool_daily_transaction_report</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-21 10:23:16</sys_created_on>
+            <sys_id>2cfb95d92f832010042bd8492799b681</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_1</sys_name>
+            <sys_package display_value="COOL" source="x_597157_cool">266090b72f722010042bd8492799b64a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="COOL">266090b72f722010042bd8492799b64a</sys_scope>
+            <sys_update_name>sys_choice_x_597157_cool_daily_transaction_report_u_choice_1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-21 10:23:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Withdraw</label>
+            <language>en</language>
+            <name>x_597157_cool_daily_transaction_report</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-21 10:23:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0fb95d92f832010042bd8492799b681</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-21 10:23:16</sys_updated_on>
+            <value>withdraw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deposit</label>
+            <language>en</language>
+            <name>x_597157_cool_daily_transaction_report</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-21 10:23:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4fb95d92f832010042bd8492799b683</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-21 10:23:16</sys_updated_on>
+            <value>deposit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Account Transfer</label>
+            <language>en</language>
+            <name>x_597157_cool_daily_transaction_report</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-21 10:23:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28fb95d92f832010042bd8492799b684</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-21 10:23:16</sys_updated_on>
+            <value>account transfer</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

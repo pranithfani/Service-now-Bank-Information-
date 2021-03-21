@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Daily Transaction Report" max_length="40" name="x_597157_cool_daily_transaction_report" sizeclass="0" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Transaction Type" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Withdraw" sequence="0" value="withdraw"/>
+                <element inactive_on_update="false" label="Deposit" sequence="1" value="deposit"/>
+                <element inactive_on_update="false" label="Account Transfer" sequence="2" value="account transfer"/>
+            </choice>
+        </element>
+        <element label="Amount" mandatory="true" max_length="40" name="u_float_4" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="From Account Number" mandatory="true" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="To Account Number" mandatory="true" max_length="40" name="u_string_3" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

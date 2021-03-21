@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="COOL">2f31d8b72f722010042bd8492799b65f</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Bank Information</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>15</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-19 11:56:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b20edb602f032010042bd8492799b6ea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Bank Information</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="COOL" source="x_597157_cool">266090b72f722010042bd8492799b64a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COOL">266090b72f722010042bd8492799b64a</sys_scope>
+        <sys_update_name>sys_app_module_b20edb602f032010042bd8492799b6ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-19 11:57:36</sys_updated_on>
+        <timeline_page/>
+        <title>Bank Information</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="COOL">266090b72f722010042bd8492799b64a</application>
+        <file_path/>
+        <instance_id>aa0ab6d8dbffdf043353f22ebf9619bf</instance_id>
+        <instance_name>dev68816</instance_name>
+        <name>sys_app_module_b20edb602f032010042bd8492799b6ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="COOL">2f31d8b72f722010042bd8492799b65f</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Bank Information</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>15</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-19 11:56:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b20edb602f032010042bd8492799b6ea</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Bank Information</sys_name><sys_overrides/><sys_package display_value="COOL" source="x_597157_cool">266090b72f722010042bd8492799b64a</sys_package><sys_policy/><sys_scope display_value="COOL">266090b72f722010042bd8492799b64a</sys_scope><sys_update_name>sys_app_module_b20edb602f032010042bd8492799b6ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-19 11:57:36</sys_updated_on><timeline_page/><title>Bank Information</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1511940592</payload_hash>
+        <record_name>Bank Information</record_name>
+        <reverted_from/>
+        <source>a66090b72f722010042bd8492799b64c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-19 11:57:36</sys_created_on>
+        <sys_id>135e5ba02f032010042bd8492799b612</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1784a591a980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-19 11:57:36</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9b5e5ba0ba032010eb162fed4577c011</update_guid>
+        <update_guid_history>9b5e5ba0ba032010eb162fed4577c011:-1511940592,193e57a0cc0320105cffa1fec7a1f8d2:-1648145930</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Bank Information">3aaedba02f032010042bd8492799b6de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-19 11:58:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>03622438d6ef4fd084e1ee3b55ffef90</sys_id>
+        <sys_metadata>b20edb602f032010042bd8492799b6ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bank Information</sys_name>
+        <sys_package display_value="COOL" source="x_597157_cool">266090b72f722010042bd8492799b64a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="COOL">266090b72f722010042bd8492799b64a</sys_scope>
+        <sys_scope_delete display_value="">7a38009e76e94894bdf31b6d29f45890</sys_scope_delete>
+        <sys_update_name>sys_app_module_b20edb602f032010042bd8492799b6ea</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b20edb602f032010042bd8492799b6ea">135e5ba02f032010042bd8492799b612</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-19 11:58:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

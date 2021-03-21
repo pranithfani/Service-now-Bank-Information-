@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>COOL</name>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-21 08:45:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1da5811d2f432010042bd8492799b655</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>COOL</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="COOL" source="x_597157_cool">266090b72f722010042bd8492799b64a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COOL">266090b72f722010042bd8492799b64a</sys_scope>
+        <sys_update_name>sys_ui_application_1da5811d2f432010042bd8492799b655</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-21 08:45:49</sys_updated_on>
+    </sys_ui_application>
+</record_update>

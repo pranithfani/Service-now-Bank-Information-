@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_string_5" label="Door Number" language="en" table="x_597157_cool_customer_information">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_5</element>
+            <help/>
+            <hint/>
+            <label>Door Number</label>
+            <language>en</language>
+            <name>x_597157_cool_customer_information</name>
+            <plural>Door Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-21 10:02:18</sys_created_on>
+            <sys_id>6d2711192f832010042bd8492799b6d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Door Number</sys_name>
+            <sys_package display_value="COOL" source="x_597157_cool">266090b72f722010042bd8492799b64a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="COOL">266090b72f722010042bd8492799b64a</sys_scope>
+            <sys_update_name>sys_documentation_x_597157_cool_customer_information_u_string_5_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-21 10:02:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

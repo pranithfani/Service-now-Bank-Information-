@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="192711192f832010042bd8492799b66a" sys_domain="global" table="x_597157_cool_customer_information" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-21 10:02:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>592711192f832010042bd8492799b66d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_597157_cool_customer_information" name="x_597157_cool_customer_information" sys_domain="global" view="Default view">192711192f832010042bd8492799b66a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_597157_cool_customer_information" sys_domain="global" view="Default view">7dc5cdd92f432010042bd8492799b6a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-21 10:02:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-21 10:02:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>552711192f832010042bd8492799b66e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_597157_cool_customer_information" name="x_597157_cool_customer_information" sys_domain="global" view="Default view">192711192f832010042bd8492799b66a</sys_ui_form>
+            <sys_ui_section caption="Proofs" display_value="Proofs" name="x_597157_cool_customer_information" sys_domain="global" view="Default view">dd2711192f832010042bd8492799b667</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-21 10:02:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-21 10:02:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>912711192f832010042bd8492799b6b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_597157_cool_customer_information" name="x_597157_cool_customer_information" sys_domain="global" view="Default view">192711192f832010042bd8492799b66a</sys_ui_form>
+            <sys_ui_section caption="Address For Communication" display_value="Address For Communication" name="x_597157_cool_customer_information" sys_domain="global" view="Default view">952711192f832010042bd8492799b669</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-21 10:02:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_597157_cool_customer_information</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-21 10:02:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>192711192f832010042bd8492799b66a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_597157_cool_customer_information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="COOL" source="x_597157_cool">266090b72f722010042bd8492799b64a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="COOL">266090b72f722010042bd8492799b64a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_192711192f832010042bd8492799b66a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-21 10:02:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

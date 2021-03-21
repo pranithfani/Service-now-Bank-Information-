@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_float_4</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Amount Transaction</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+   var amt=g_form.getValue('u_float_4');
+	if(amt<=0)
+		{
+			g_form.addErrorMessage('Invalid Amount');
+		}
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-21 10:41:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>97afd15d2f832010042bd8492799b660</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Amount Transaction</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="COOL" source="x_597157_cool">266090b72f722010042bd8492799b64a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="COOL">266090b72f722010042bd8492799b64a</sys_scope>
+        <sys_update_name>sys_script_client_97afd15d2f832010042bd8492799b660</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-21 11:08:55</sys_updated_on>
+        <table>x_597157_cool_daily_transaction_report</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
